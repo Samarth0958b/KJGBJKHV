@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: deepskyblue;
+}
+input{
+    margin-top: 20px;
+}
+#b2s{
+    display:none;
+    margin-top: 20px;
+}
+#b1{
+    margin-top: 20px;  
+}
+div{
+    font-size: 20px;
+    background-color: dimgray;
+}
